@@ -16,8 +16,6 @@ layout:
 
 ## WELCOME TO DATA ANALYTICS
 
-Olá, estudante! Queremos te dar as boas-vindas à quintaFase do nosso curso PósTech emData Analytics. Estamos animados(as) para lhe acompanhar nesta jornada de conhecimentos!
-
 Nesta quinta fase, vemos que a estrutura de disciplina está da seguinte forma e ordem:
 
 1. Deep and Reinforcement Learning;
